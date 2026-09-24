@@ -5,8 +5,6 @@
 out/
 bin/
 target/
-src/solid*
-src/exer*
 
 # Arquivos locais gerados pelo jogo
 ranking.json
